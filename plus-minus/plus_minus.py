@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 
 def plusMinus(arr: list[int]) -> None:
     array_length = 0
